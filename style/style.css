@@ -162,7 +162,7 @@ html {
 
 .papeonly {
   z-index: 3;
-  margin-top: -60px;
+  margin-top: -55px;
   margin-bottom: -22px;
 }
 
@@ -406,6 +406,10 @@ html {
   color: var(--bg-color);
 }
 
+.footer{
+  padding-bottom: 27px;
+}
+
 
 @media (width<412px) {
   .pape-img {
@@ -435,6 +439,14 @@ html {
     width: 100%;
     height: auto;
     aspect-ratio: 412 / 166;
+  }
+
+  .green{
+    padding: 0 15px;
+  }
+
+  .wishes{
+    padding-bottom: 95px;
   }
 }
 
