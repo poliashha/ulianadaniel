@@ -412,12 +412,7 @@ html {
 
 
 @media (width<412px) {
-  .pape-img {
-    max-width: 412px;
-    width: 100%;
-    height: auto;
-    aspect-ratio: 412 / 170;
-  }
+  
 
   .papeflower-img {
     max-width: 412px;
